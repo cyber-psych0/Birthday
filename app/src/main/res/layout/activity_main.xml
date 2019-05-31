@@ -15,12 +15,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy Birthday Ben!"
+        android:text="Happy Birthday Abhay!"
         android:textColor="#ffffff"
         android:textSize="35sp"
         android:paddingLeft="16dp"
         android:paddingTop="16dp"
         android:fontFamily="sans-serif-light"
+        />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
