@@ -1,3 +1,2 @@
 # Birthday
-Beginner Birthday Card App
-Includes Basic Xml layouts.
+Beginner Birthday Card App that includes Basic Xml layouts.
