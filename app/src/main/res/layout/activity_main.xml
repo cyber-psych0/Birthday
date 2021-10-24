@@ -15,7 +15,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy Birthday BEN!"
+        android:text="Happy Birthday Ayushman!"
         android:textColor="#ffffff"
         android:textSize="35sp"
         android:paddingLeft="16dp"
@@ -25,7 +25,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="From: Ayushman"
+        android:text="From: Akhil"
         android:textColor="#ffffff"
         android:textSize="35sp"
         android:paddingBottom="16dp"
